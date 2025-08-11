@@ -10,4 +10,10 @@
 			  front-family: verdana;
 			   font-size: 20px;
 			}
-		</style>
+h1 {
+	front-size: 50px;
+}
+h3 {
+	front-sizq: 22px;
+}
+</style>
